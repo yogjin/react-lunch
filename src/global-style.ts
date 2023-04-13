@@ -33,5 +33,9 @@ export const GlobalStyle = createGlobalStyle`
     --text-subtitle: 600 18px/28px san-serif;
     --text-body: 400 16px/24px san-serif;
     --text-caption: 400 14px/20px san-serif;
+
+    --button-secondary: 
+    --button-primary:
   }
+
 `;
