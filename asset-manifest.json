@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-lunch/static/js/main.d7dcc08b.js",
+    "main.js": "/react-lunch/static/js/main.8882b972.js",
     "index.html": "/react-lunch/index.html",
-    "main.d7dcc08b.js.map": "/react-lunch/static/js/main.d7dcc08b.js.map"
+    "main.8882b972.js.map": "/react-lunch/static/js/main.8882b972.js.map"
   },
   "entrypoints": [
-    "static/js/main.d7dcc08b.js"
+    "static/js/main.8882b972.js"
   ]
 }
